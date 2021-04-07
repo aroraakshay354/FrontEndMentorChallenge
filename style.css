@@ -210,13 +210,13 @@ body {
 }
 
 .p11 {
-				position: absolute;
+				position: fixed;
 				bottom: 523px;
 				right: 220px;
 }
 
 .p12 {
-				position: absolute;
+				position: fixed;
 				bottom: 420px;
 				right: 217px;
 }
